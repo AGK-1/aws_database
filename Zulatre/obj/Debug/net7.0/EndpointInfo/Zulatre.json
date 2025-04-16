@@ -1,8 +1,9 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Zulatre",
-    "version": "1.0"
+    "title": "Your New API Title",
+    "description": "A description of your API",
+    "version": "v1"
   },
   "paths": {
     "/api/Carts": {

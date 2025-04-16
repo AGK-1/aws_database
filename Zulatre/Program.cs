@@ -16,6 +16,15 @@ builder.Services.AddDbContext<AppDb>(options => options.UseSqlServer(builder.Con
 //);
 builder.Services.AddControllers();
 
+builder.Services.AddSwaggerGen(options =>
+{
+    options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+    {
+        Title = "Your New API Title",  // Change the title here
+        Version = "v1",
+        Description = "A description of your API"
+    });
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -29,7 +38,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
     app.UseSwaggerUI();
 }
 
-app.UseForwardedHeaders();
+//app.UseForwardedHeaders();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
