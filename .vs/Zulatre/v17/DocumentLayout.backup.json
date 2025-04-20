@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\dto\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\dto\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "commentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\commentDTO.cs",
+              "RelativeDocumentMoniker": "Zulatre\\DTO\\commentDTO.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\commentDTO.cs",
+              "RelativeToolTip": "Zulatre\\DTO\\commentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:45:11.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Zulatre\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswIwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:31:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\Comment.cs",
+              "RelativeToolTip": "Zulatre\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:18:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Zulatre\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:18:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Services\\JwtService.cs",
+              "RelativeToolTip": "Zulatre\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:22:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Program.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Program.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Program.cs*",
+              "RelativeToolTip": "Zulatre\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:43:07.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\appsettings.json",
+              "RelativeDocumentMoniker": "Zulatre\\appsettings.json",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\appsettings.json*",
+              "RelativeToolTip": "Zulatre\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T21:43:05.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\AppDb.cs",
+              "RelativeDocumentMoniker": "Zulatre\\AppDb.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\AppDb.cs",
+              "RelativeToolTip": "Zulatre\\AppDb.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:43:19.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "updateCommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\updateCommentDTO.cs",
+              "RelativeDocumentMoniker": "Zulatre\\DTO\\updateCommentDTO.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\updateCommentDTO.cs",
+              "RelativeToolTip": "Zulatre\\DTO\\updateCommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:57:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\User.cs",
+              "RelativeToolTip": "Zulatre\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:55:55.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "userDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\userDTO.cs",
+              "RelativeDocumentMoniker": "Zulatre\\DTO\\userDTO.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\DTO\\userDTO.cs",
+              "RelativeToolTip": "Zulatre\\DTO\\userDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:36:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Zulatre\\Controllers\\PostController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:39:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Zulatre\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Models\\Post.cs",
+              "RelativeToolTip": "Zulatre\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:21:36.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

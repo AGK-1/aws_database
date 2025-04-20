@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zulatre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+516c037a1880802f1ee6e2c541d1762743502efa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84e4b47bfff334081489959cfc834caa644ac0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zulatre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zulatre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

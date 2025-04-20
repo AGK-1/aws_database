@@ -110,7 +110,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 
 app.UseAuthentication();
 app.UseAuthorization();
-//app.UseForwardedHeaders();
+app.UseForwardedHeaders();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
