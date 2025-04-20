@@ -79,3 +79,5 @@ C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\obj\Debug\net7.0\Zulatre.pd
 C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\obj\Debug\net7.0\Zulatre.genruntimeconfig.cache
 C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\obj\Debug\net7.0\ref\Zulatre.dll
 C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\obj\Debug\net7.0\Zulatre.sourcelink.json
+C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Android_999\Desktop\c-sharp\Zulatre\Zulatre\bin\Debug\net7.0\BCrypt.Net-Next.dll
