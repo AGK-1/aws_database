@@ -111,7 +111,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseForwardedHeaders();
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

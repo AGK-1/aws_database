@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|solutionrelative:zulatre\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EDF15F6-3CF0-4901-A7D0-669F98B8AF4A}|Zulatre\\Zulatre.csproj|c:\\users\\android_999\\desktop\\c-sharp\\zulatre\\zulatre\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -126,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Program.cs",
               "RelativeDocumentMoniker": "Zulatre\\Program.cs",
-              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Program.cs",
-              "RelativeToolTip": "Zulatre\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\Program.cs*",
+              "RelativeToolTip": "Zulatre\\Program.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T21:43:07.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Android_999\\Desktop\\c-sharp\\Zulatre\\Zulatre\\appsettings.json",
               "RelativeDocumentMoniker": "Zulatre\\appsettings.json",
