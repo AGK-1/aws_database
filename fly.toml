@@ -2,7 +2,7 @@
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
-aski = ['','', 31 , 35, 45, 110, 30 ]
+aski = ['','', 32 , 35, 45, 110, 30 ]
 app = 'aws-database'
 primary_region = 'otp'
 
